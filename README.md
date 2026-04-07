@@ -2,7 +2,7 @@
 
 # Sahil Sunil Warudkar
 
-**AI Engineer &nbsp;·&nbsp; Research Intern @ IIT Bhilai &nbsp;·&nbsp; IEEE Published Author**
+**AI Engineer &nbsp;·&nbsp; Research Intern @ IIT Bhilai &nbsp;·&nbsp;  AIP & IEEE Published Author**
 
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-b69ef5?style=flat-square&labelColor=2a1f4e&color=5c3fbf)
 ![LLMs & GenAI](https://img.shields.io/badge/LLMs%20%26%20GenAI-5dcaa5?style=flat-square&labelColor=0e2e24&color=1a6b50)
@@ -10,7 +10,7 @@
 ![IoT Systems](https://img.shields.io/badge/IoT%20Systems-f5a623?style=flat-square&labelColor=2c1f06&color=7a4e0a)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-999999?style=flat-square&labelColor=1c1c1c&color=333333)
 
-*B.Tech AI & Data Science &nbsp;·&nbsp; DMIHER, Wardha*
+*AI & Data Science &nbsp;&nbsp;*
 
 </div>
 
