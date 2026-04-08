@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sahil Sunil Warudkar
+# Sahil Warudkar
 
 **AI Engineer &nbsp;·&nbsp; Research Intern @ IIT Bhilai &nbsp;·&nbsp;  AIP & IEEE Published Author**
 
